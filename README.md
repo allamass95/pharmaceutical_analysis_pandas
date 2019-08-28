@@ -2,7 +2,7 @@
 In this study, 250 mice were treated through a variety of drug regimes over the course of 45 days. Their physiological responses were then monitored over the course of that time. I was able to analyze the data to show how four treatments (Capomulin, Infubinol, Ketapril, and Placebo) compare.
 
 
-Using CSV files for data, I was able to analyze the data using Pandas libraries, and plot it with matplotlib.
+Using CSV files, I was able to analyze the data using Pandas libraries, and plot it with matplotlib.
 
 * Created a scatter plot that shows how the tumor volume changes over time for each treatment.
 * Created a scatter plot that shows how the number of cancer spreading sites changes over time for each treatment.
